@@ -286,17 +286,13 @@ AI-Assisted Incident Response
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premkumarvula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="profile/stats.svg" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumarvula&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="profile/top-langs.svg" alt="Top Languages" height="180"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Premkumarvula&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Premkumarvula&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
